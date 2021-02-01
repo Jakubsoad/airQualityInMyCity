@@ -2,32 +2,763 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c72addeb-08fe-4da2-ba8f-69a556f80964" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../4000words" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/Algorytmy kombinatoryczne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/countOnes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/decToBinRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/decToBinary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/exponentationRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/exponentiationRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/factorialRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/fibonacciRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/flippingCoinRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/hanoi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/pascalTriangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorytmy kombinatoryczne/reverseStrRecc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlogKasiaSzyje" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternsProject" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercism/.idea/Exercism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercism/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercism/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/FosrestComment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FosrestComment/FOSCommentBundle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/JavaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/img/s9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/szubienica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/szubienica.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/1/1/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/17.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/18.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/19.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/20.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/26.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/27.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/28.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/2/2/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/3/3.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/4/4.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/5/5.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/6/6.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/Blog Artykuły/7/7.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/css/Pretty-Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/fotelbordo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/kocyk.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/kocyk2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/sewingMachine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/sofa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/img/sofaturkus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kasia szyje BS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZJP" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/ZnajdzImie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/controllers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/controllers/hello_controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/assets.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/prod/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/test/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources/25b40f66-f76d-4508-adc6-5d7bf79f629a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources/25b40f66-f76d-4508-adc6-5d7bf79f629a/storage_v2/_src_/database/findname.xOuP1w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources/25b40f66-f76d-4508-adc6-5d7bf79f629a/storage_v2/_src_/database/findname.xOuP1w/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources/25b40f66-f76d-4508-adc6-5d7bf79f629a/storage_v2/_src_/database/findname.xOuP1w/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/dataSources/25b40f66-f76d-4508-adc6-5d7bf79f629a/storage_v2/_src_/database/findname.xOuP1w/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/findName.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/logfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/composer/platform_check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/src/ContainerExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/src/ContainerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/psr/container/src/NotFoundExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Color.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Command/Command.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Command/HelpCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Command/ListCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Command/LockableTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Command/SignalableCommandInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/CommandLoader/CommandLoaderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/ConsoleEvents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Cursor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/DependencyInjection/AddConsoleCommandPass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/ApplicationDescription.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/Descriptor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/DescriptorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/JsonDescriptor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/MarkdownDescriptor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/TextDescriptor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Descriptor/XmlDescriptor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Event/ConsoleCommandEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Event/ConsoleErrorEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Event/ConsoleEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Event/ConsoleSignalEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Event/ConsoleTerminateEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/EventListener/ErrorListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/CommandNotFoundException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/ExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/InvalidArgumentException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/InvalidOptionException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/LogicException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/MissingInputException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/NamespaceNotFoundException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Exception/RuntimeException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/NullOutputFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/NullOutputFormatterStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/OutputFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/OutputFormatterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/OutputFormatterStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/OutputFormatterStyleInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Formatter/WrappableOutputFormatterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/DebugFormatterHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/DescriptorHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/Dumper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/FormatterHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/Helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/HelperInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/HelperSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/InputAwareHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/ProcessHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/ProgressBar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/ProgressIndicator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/QuestionHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/TableCell.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/TableCellStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/TableRows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/TableSeparator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Helper/TableStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/ArgvInput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/ArrayInput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/Input.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/InputArgument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/InputAwareInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/InputDefinition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/InputInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/InputOption.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/StreamableInputInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Input/StringInput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Logger/ConsoleLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/BufferedOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/ConsoleOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/ConsoleOutputInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/ConsoleSectionOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/NullOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/Output.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/OutputInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/StreamOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Output/TrimmedBufferOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Question/ChoiceQuestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Question/ConfirmationQuestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Question/Question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Resources/bin/hiddeninput.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/SignalRegistry/SignalRegistry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/SingleCommandApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Style/OutputStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Style/StyleInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Style/SymfonyStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Terminal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Tester/ApplicationTester.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Tester/CommandTester.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/Tester/TesterTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/console/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-ctype/Ctype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-ctype/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-ctype/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-ctype/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-ctype/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-grapheme/Grapheme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-grapheme/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-grapheme/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-grapheme/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-grapheme/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Normalizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Resources/unidata/canonicalComposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Resources/unidata/canonicalDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Resources/unidata/combiningClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/Resources/unidata/compatibilityDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-intl-normalizer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/Mbstring.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-mbstring/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/Php73.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/Resources/stubs/JsonException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php73/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/Php80.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/polyfill-php80/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/Attribute/Required.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/ResetInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/ServiceLocatorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/ServiceProviderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/ServiceSubscriberInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/ServiceSubscriberTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/service-contracts/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/AbstractString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/AbstractUnicodeString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/ByteString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/CodePointString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Exception/ExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Exception/InvalidArgumentException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Exception/RuntimeException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Inflector/EnglishInflector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Inflector/FrenchInflector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Inflector/InflectorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/LazyString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Resources/data/wcswidth_table_wide.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Resources/data/wcswidth_table_zero.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Resources/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Slugger/AsciiSlugger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/Slugger/SluggerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/UnicodeString.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZnajdzImie/vendor/symfony/string/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-5.0-5" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/calcOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/calc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/inc/Calc.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/complexity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/coupling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/clusterize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/material-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/milligram.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/milligram.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/roboto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/fonts/material-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/fonts/roboto-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/fonts/roboto-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/images/logo-git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/images/phpmetrics-maintenability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/clusterize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/d3.hexbin.v0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/d3.v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/graph-licenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/graph-maintainability.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/history-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/latest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/js/sort-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/junit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/loc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/oop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/package_relations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/packages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/relations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/myreport/violations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/bin/php-parse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/bin/phpmetrics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/bin/php-parse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/parser.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/php5.y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/php7.y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/rebuildParsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/tokens.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/grammar/tokens.y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/BuilderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/BuilderHelpers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ConstExprEvaluationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ConstExprEvaluator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Internal/DiffElem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Internal/Differ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Internal/TokenStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/JsonDecoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/TokenEmulatorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NameContext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeDumper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeFinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeTraverserInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/CloningVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/FindingVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/FirstFindingVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Parser/Php5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/Parser/Tokens.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/ParserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/.semver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/bin/phpmetrics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Analyze.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/ConfigException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/File/ConfigFileReaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/File/ConfigFileReaderIni.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/File/ConfigFileReaderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/File/ConfigFileReaderJson.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Application/Config/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Ast/NodeTraverser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Ast/Php5NodeTraverser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Ast/Php7NodeTraverser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/File/Finder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Issue/Issuer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Output/CliOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Output/Output.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Output/ProgressBar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Output/TestOutput.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/Edge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/Graph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/GraphDeduplicated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/GraphException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/HashMap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/Operator/CycleDetector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Component/Tree/Operator/SizeOfTree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/BagTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/ClassMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/ClassEnumVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Complexity/CyclomaticComplexityVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Complexity/KanDefectVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Component/MaintainabilityIndexVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Coupling/ExternalsVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Structural/LcomVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Structural/SystemComplexityVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Text/HalsteadVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Class_/Text/LengthVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Consolidated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/FileMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/FunctionMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Helper/MetricClassNameGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Helper/RoleOfMethodDetector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/InterfaceMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Metric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Metrics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Package/PackageAbstraction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Package/PackageCollectingVisitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Package/PackageDependencies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Package/PackageDistance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Package/PackageInstability.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/PackageMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/ProjectMetric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/Registry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Changes/GitChanges.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Coupling/Coupling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Coupling/DepthOfInheritanceTree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Coupling/PageRank.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Packages/Composer/Composer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/Packages/Composer/Packagist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Metric/System/UnitTesting/UnitTesting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Cli/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Csv/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/all.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/complexity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/coupling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/clusterize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/material-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/milligram.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/milligram.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/roboto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/fonts/material-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/fonts/roboto-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/fonts/roboto-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/git.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/images/logo-git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/images/phpmetrics-maintenability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/clusterize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/d3.hexbin.v0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/d3.v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/graph-licenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/graph-maintainability.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/js/sort-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/junit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/loc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/oop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/package_relations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/packages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/panel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/relations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Html/template/violations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Json/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Report/Violations/Xml/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/Blob.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/ProbablyBugged.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/TooComplexClassCode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/TooComplexMethodCode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/TooDependent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Class_/TooLong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Package/StableAbstractionsPrinciple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Package/StableDependenciesPrinciple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Violation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/ViolationParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/Hal/Violation/Violations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculatorOOP-master/vendor/phpmetrics/phpmetrics/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codewars" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fakturaApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guestbook" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleRestApiApp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wakacjeRT/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wakacjeRT/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wakacjeRT/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
