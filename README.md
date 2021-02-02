@@ -9,6 +9,7 @@ Wymagania:
 * Yarn
 * Możliwość uruchomienia serwera PHP w wersji 7.3: 
 może być za pomocą pakietu PHP, albo z pomocą wbudowanego serwera w Symfony CLI (https://symfony.com/download)
+0. Pobierz folder z projektem i przejdź do niego
 1. Zainstaluj zależności composera:
     ```console
     composer install
