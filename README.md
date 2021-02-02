@@ -18,7 +18,11 @@ może być za pomocą pakietu PHP, albo z pomocą wbudowanego serwera w Symfony 
     ```console
     yarn install
     ```
-3. Uruchom serwer PHP:
+3. Zbuduj widoki za pomocą encore:
+   ```console
+   yarn encore dev
+   ```
+4. Uruchom serwer PHP:
     
     pakiet PHP
     ```console
@@ -28,4 +32,6 @@ może być za pomocą pakietu PHP, albo z pomocą wbudowanego serwera w Symfony 
     ```console
     symfony serve
     ```
-...albo w jakikolwiek inny sposób :)
+    ...albo w jakikolwiek inny sposób :)
+    
+To wszystko, aplikacja powinna być gotowa do informowania o stanie powietrza w twoim mieście.
