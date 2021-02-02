@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <h3 class="alert alert-secondary">Stacje pomiarowe w twojej lokalizacji:</h3>
+                {% for name, value in sensorValuesNames %}
+                <li>{{ name }} - <b>{{ value }}</b>
+                {% endfor %}
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <h4 class="alert alert-{{ airQualitySt }}">Stan powietrza w twoim mieście: <b>{{ airQuality.stIndexLevel.indexLevelName }}</b></h4>
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <a href="{{ path('air_quality.index') }}" class="btn btn-info">Powróć</a>
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+
+
+{% endblock %}

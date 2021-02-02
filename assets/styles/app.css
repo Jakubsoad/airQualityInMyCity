@@ -5,7 +5,15 @@ body {
     color: darkslategray;
 }
 
+.row {
+    margin-top: 20px;
+}
+
 #welcome {
     margin-top: 100px;
+}
+
+#select-localizations {
+    padding: 10px;
 }
 

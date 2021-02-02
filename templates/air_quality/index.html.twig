@@ -1,17 +1,7 @@
 {% extends 'base.html.twig' %}
 
-{% block title %}AirQualityInMyCity{% endblock %}
-
-{% block stylesheets %}
-    {{ encore_entry_link_tags('app') }}
-{% endblock %}
-
-{% block javascripts %}
-    {{ encore_entry_script_tags('app') }}
-{% endblock %}
-
 {% block body %}
-
+    <form action="{{ path('air_quality.station_sensors') }}">
     <div class="container">
         <div class="row">
             <div class="col"></div>
@@ -20,6 +10,22 @@
             </div>
             <div class="col"></div>
         </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <select name="idStation" id="select-localizations">
+                    {% for station in stations %}
+                        <option value="{{ station.id }}">{{ station.stationName }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <button class="col btn btn-success">Wyślij</button>
+            <div class="col"></div>
+        </div>
     </div>
-
+    </form>
 {% endblock %}
