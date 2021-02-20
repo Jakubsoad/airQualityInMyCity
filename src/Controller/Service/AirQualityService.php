@@ -90,7 +90,7 @@ class AirQualityService
             $sensorName = $sensor['param']['paramName'].' ('.$sensor['param']['paramCode'].')';
             $indexLevel = strtolower($sensor['param']['paramFormula']).'IndexLevel';
             if (array_key_exists($indexLevel, $airQuality)) {
-                $sensorValuesNames[$sensorName] = $airQuality[$indexLevel]['indexLevelName'];
+                $response[$sensorName] = $airQuality[$indexLevel]['indexLevelName'];
             }
         }
 
