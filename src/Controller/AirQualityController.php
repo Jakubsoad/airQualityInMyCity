@@ -2,11 +2,12 @@
 
 namespace App\Controller;
 
+use App\Controller\Service\AirQualityService;
+use Exception;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 /**
  * Class AirQualityController
@@ -14,26 +15,32 @@ use Symfony\Contracts\HttpClient\HttpClientInterface;
  */
 class AirQualityController extends AbstractController
 {
-    private $httpClient;
+    /** @var AirQualityService */
+    private $airQualityService;
 
-    public function __construct(HttpClientInterface $httpClient)
+    /**
+     * AirQualityController constructor.
+     * @param AirQualityService $airQualityService
+     */
+    public function __construct(AirQualityService $airQualityService)
     {
-        $this->httpClient = $httpClient;
+        $this->airQualityService = $airQualityService;
     }
 
     /**
      * @Route("/", name="air_quality.index")
      *
      * @return Response
+     * @throws Exception
      */
     public function index(): Response
     {
-        $response = $this->httpClient->request(
-        'GET',
-        'http://api.gios.gov.pl/pjp-api/rest/station/findAll'
-        );
-
-        $stations = json_decode($response->getContent(), true);
+        try {
+            $stations = $this->airQualityService->getAllStations();
+        } catch (Exception $e) {
+            $msg = 'Nie udało się pobrać stacji. Treść błędu: ';
+            throw new Exception($msg.$e->getMessage());
+        }
 
         return $this->render('air_quality/index.html.twig', [
             'stations' => $stations,
@@ -45,58 +52,33 @@ class AirQualityController extends AbstractController
      * @param Request $request
      *
      * @return Response
+     * @throws Exception
      */
     public function showStationSensors(Request $request): Response
     {
-        $idStation = $request->get('idStation');
-
-        $response = $this->httpClient->request(
-            'GET',
-            "http://api.gios.gov.pl/pjp-api/rest/station/sensors/$idStation"
-        );
-        $sensors = json_decode($response->getContent(), true);
-
-        $response = $this->httpClient->request(
-            'GET',
-            "http://api.gios.gov.pl/pjp-api/rest/aqindex/getIndex/$idStation"
-        );
-
-        $airQuality = json_decode($response->getContent(), true);
-
-        $sensorValuesNames = [];
-        foreach ($sensors as $sensor) {
-            $sensorName = $sensor['param']['paramName'].' ('.$sensor['param']['paramCode'].')';
-            $indexLevel = strtolower($sensor['param']['paramFormula']).'IndexLevel';
-            if (array_key_exists($indexLevel, $airQuality)) {
-                $sensorValuesNames[$sensorName] = $airQuality[$indexLevel]['indexLevelName'];
-            }
+        try {
+            $sensors = $this->airQualityService->getStationSensors($request->get('idStation'));
+        } catch (Exception $e) {
+            $msg = 'Nie udało się pobrać czujników dla danej stacji. Treść błędu: ';
+            throw new Exception($msg.$e->getMessage());
         }
 
-        $airQualitySt = '';
-        switch ($airQuality['stIndexLevel']['id']) {
-            case 0:
-                $airQualitySt = 'success';
-                break;
-            case 1:
-                $airQualitySt = 'info';
-                break;
-            case 2:
-                $airQualitySt = 'primary';
-                break;
-            case 3:
-                $airQualitySt = 'warning';
-                break;
-            case 4:
-                $airQualitySt = 'danger';
-                break;
+        try {
+            $airQuality = $this->airQualityService->getAirQualityForStation($request->get('idStation'));
+        } catch (Exception $e) {
+            $msg = 'Nie udało się pobrać wyników jakości powietrza dla danej stacji. Treść błędu: ';
+            throw new Exception($msg.$e->getMessage());
         }
+
+        $sensorValuesNames = $this->airQualityService->matchSensorsWithData($sensors, $airQuality);
+
+        $airQualityBoostrapClass = $this->airQualityService->getBootstrapClassByStIndex($airQuality['stIndexLevel']['id']);
 
         return $this->render('air_quality/station_sensors.html.twig', [
             'sensors' => $sensors,
             'airQuality' => $airQuality,
-            'airQualitySt' => $airQualitySt,
+            'airQualityBoostrapClass' => $airQualityBoostrapClass,
             'sensorValuesNames' => $sensorValuesNames,
         ]);
-
     }
 }
